@@ -39,7 +39,8 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 
 ### Random Forest Model Evaluation
 
-![reenshots/random_forest_evaluation.png
+<img width="561" height="342" alt="image" src="https://github.com/user-attachments/assets/0c126c7c-b92b-494b-8423-a29066219991" />
+
 
 ---
 
