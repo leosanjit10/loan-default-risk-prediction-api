@@ -27,6 +27,31 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 5. Model Training
 6. Model Evaluation
 7. Model Deployment using FastAPI
+   
+## Screenshots
+
+### Correlation Heatmap
+
+screenshots/target_distribution.png
+
+---
+
+### Random Forest Model Evaluation
+
+![reenshots/random_forest_evaluation.png
+
+---
+
+### FastAPI Swagger Documentation
+
+screenshots/swagger_ui.png
+
+---
+
+### Prediction Response
+
+screenshots/prediction_response.png
+
 
 ## Run Locally
 
