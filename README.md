@@ -53,7 +53,8 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 
 ### Prediction Response
 
-screenshots/prediction_response.png
+<img width="485" height="153" alt="image" src="https://github.com/user-attachments/assets/b10bcd43-93cc-4516-a5e4-02a270b29dc4" />
+
 
 
 ## Run Locally
