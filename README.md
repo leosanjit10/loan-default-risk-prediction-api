@@ -32,7 +32,8 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 
 ### Correlation Heatmap
 
-screenshots/target_distribution.png
+<img width="1326" height="1040" alt="image" src="https://github.com/user-attachments/assets/fd16db72-8a8d-4560-8b18-92ba7a77487b" />
+
 
 ---
 
