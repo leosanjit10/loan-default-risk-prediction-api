@@ -46,7 +46,8 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 
 ### FastAPI Swagger Documentation
 
-screenshots/swagger_ui.png
+<img width="1880" height="792" alt="image" src="https://github.com/user-attachments/assets/001044b6-c288-4864-8f4a-6e7bd356f1d3" />
+
 
 ---
 
