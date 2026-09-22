@@ -111,16 +111,6 @@ Random Forest Classifier
 - Deployed the model using FastAPI.
 - Implemented a real-time prediction endpoint.
 
-## Note
-
-The trained model file (loan_default_model.pkl) is not included in this repository because it exceeds GitHub's web upload size limit.
-
-To reproduce:
-
-1. Train the model using the notebook.
-2. Save the model using joblib.
-3. Place the generated model file in the project root directory.
-
 ## Author
 
 Sanjit Sitaula
