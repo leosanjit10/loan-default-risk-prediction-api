@@ -2,6 +2,16 @@
 
 An end-to-end Machine Learning project that predicts whether a customer is likely to repay a loan.
 
+## Live Demo
+
+### Live API
+https://loan-default-risk-prediction-api-jdpr.onrender.com
+
+### Swagger Documentation
+https://loan-default-risk-prediction-api-jdpr.onrender.com/docs
+
+You can test the API directly through the Swagger UI without installing any software locally.
+
 ## Tech Stack
 
 - Python
